@@ -1,5 +1,5 @@
 # Kdrama-Analysis
-Practicing R by analyzing a kdrama dataset
+Practicing R by analysing a kdrama dataset
 
 Hi! This is a personal project where I practiced using R for data data wrangling, visualization, and basic analysis. The dataset I used is: https://www.kaggle.com/datasets/saikalbatyrbekova/korean-dramas-dataset-eda/data , it contains information of 350 Korean Dramas from year 2003 to 2025, including titles, release years, genres, ratings, actors.
 
